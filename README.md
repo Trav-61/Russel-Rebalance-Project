@@ -85,6 +85,6 @@ Adding risk-adjusted metrics (Sharpe, drawdowns, hit ratio).
 Automating rebalance PDF ingestion across multiple years.
 
 
-📜 License
+License
 
 MIT License. Free to use and adapt with attribution.
