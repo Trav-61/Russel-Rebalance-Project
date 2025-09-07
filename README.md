@@ -37,21 +37,6 @@ Historical_Data_yfinance.py → fetch & clean OHLCV data
 
 normal_price.py → normalize price series
 
-Project Structure
-Russell_Rebalance_Project/
-│
-├── Data/
-│   ├── ru3000-additions-20250627.pdf
-│   ├── ru3000-deletions-20250627.pdf
-│   ├── R3000_additions.csv
-│   ├── R3000_deletions.csv
-│   └── R3000_<StartDate>_to_<EndDate>.csv
-│
-├── Historical_Data_yfinance.py
-├── normal_price.py
-├── rebalance_analysis.py   # main script
-└── README.md
-
 
 Outputs:
 
